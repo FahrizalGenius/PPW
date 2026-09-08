@@ -15,7 +15,7 @@ NAMA : FAHRIZAL UMAM
 
 NIM : 230411100056
 
-EMAIL :230411100056@student.trunojoyo.ac.id
+EMAIL :shogunrizal@gmail.com
 
 ```{tableofcontents}
 ```
